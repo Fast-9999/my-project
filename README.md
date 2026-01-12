@@ -20,7 +20,7 @@ Dự án này sử dụng Flutter. Để chạy ứng dụng:
 
 ## 👥 Thành viên thực hiện (Contributors)
 * **Lâm Tấn Phát** (lamtanphat1004@gmail.com) - Leader / Developer
-* **Lê Thanh Phát** () - Developer
+* **Lê Thanh Phát** (lethanhphat10122004@gmail.com) - Developer
 
 ---
 Project for educational purpose.
