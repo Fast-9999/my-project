@@ -1,16 +1,26 @@
-# englishlearningapp
+# 📘 English Learning App
 
-A new Flutter project.
+Một ứng dụng học tiếng Anh toàn diện, giúp người dùng cải thiện từ vựng và ngữ pháp. Dự án được xây dựng bằng **Flutter**.
 
-## Getting Started
+## ✨ Tính năng chính
+* [ ] Học từ vựng qua Flashcard (Ví dụ)
+* [ ] Làm bài tập trắc nghiệm
+* [ ] Tra từ điển nhanh
+* [ ] Giao diện thân thiện (Front-end & Back-end Flutter)
 
-This project is a starting point for a Flutter application.
+## 📸 Hình ảnh Demo
+*(Sau này ông chụp màn hình app, quăng vô thư mục code rồi chèn link ảnh vào đây cho đẹp)*
 
-A few resources to get you started if this is your first Flutter project:
+## 🛠️ Cài đặt & Chạy
+Dự án này sử dụng Flutter. Để chạy ứng dụng:
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+1.  Clone về máy: `git clone <link-repo-của-ông>`
+2.  Cài đặt thư viện: `flutter pub get`
+3.  Chạy app: `flutter run`
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+## 👥 Thành viên thực hiện (Contributors)
+* **Lâm Tấn Phát** (lamtanphat1004@gmail.com) - Leader / Developer
+* **Lê Thanh Phát** () - Developer
+
+---
+Project for educational purpose.
